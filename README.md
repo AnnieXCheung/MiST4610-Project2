@@ -27,7 +27,7 @@ In addition, high crime areas in general have a negative impact on society socia
 
 In conclusion, aggregating data of violent crime within locations in Los Angeles as a whole can help government entities make informed decisions on policies to decrease the crime rate and increase productivity and safety for all its citizens.
 
-Question 2: What is the rate of violent crimes towards Asians in the most extreme violent crime rate location and least extreme violent crime location?
+Question 2: What is the rate of violent crimes towards Asians in the most extreme violent crime rate location, median extreme, and least extreme violent crime location?
 
 Importance:
 
