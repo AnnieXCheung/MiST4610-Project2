@@ -1,7 +1,7 @@
 Team Name: MIST4610.21482 Group - 5
 
 Team Members:
-Annie Cheung:
+Josh Yi: https://github.com/JoshJYi/GroupProject2/tree/main
 Grace Wang:
 Mussie Gebrekidan:
 
