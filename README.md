@@ -2,7 +2,7 @@ Team Name: MIST4610.21482 Group - 5
 
 Team Members:
 Josh Yi: https://github.com/JoshJYi/GroupProject2/tree/main
-Grace Wang:
+Grace Wang: https://github.com/gracecwang/LaCrimeProject/tree/main
 Mussie Gebrekidan:
 
 Dataset:
