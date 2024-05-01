@@ -5,7 +5,7 @@ Josh Yi: https://github.com/JoshJYi/GroupProject2/tree/main
 
 Grace Wang: https://github.com/gracecwang/LaCrimeProject/tree/main
 
-Mussie Gebrekidan:
+Mussie Gebrekidan: https://github.com/MussieEfrem/MIST4610-Project2
 
 Dataset:
 
